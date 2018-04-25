@@ -1,6 +1,6 @@
 {
-	name : "Paracetamol",
-	power : "150mg",
-	usage : "For cough and fever",
-	consume : "1-0-1"
+	"name" : "Paracetamol",
+	"power" : "150mg",
+	"usage" : "For cough and fever",
+	"consume" : "1-0-1"
 }
